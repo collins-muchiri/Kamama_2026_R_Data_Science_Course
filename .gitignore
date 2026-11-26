@@ -1,0 +1,26 @@
+# R specific
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Renviron
+
+# RStudio
+.Rproj.user/
+
+# R Markdown / Quarto intermediates
+*.utf8.md
+*.knit.md
+*_cache/
+/cache/
+
+# Credentials
+.httr-oauth
+
+# System files
+.DS_Store
+Thumbs.db
