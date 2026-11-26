@@ -53,4 +53,4 @@ Kamama_2026_R_Data_Science_Course/
 
 ## License
 
-To be finalized: CC BY-SA 4.0 for course content and MIT for source code (planned before first public release).
+Released under the MIT License - see LICENSE. The license covers both the source code and the written course materials, so you are free to learn from, reuse and adapt them with attribution.
